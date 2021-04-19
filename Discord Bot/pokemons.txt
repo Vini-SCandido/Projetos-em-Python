@@ -1,0 +1,151 @@
+CEBOLINHA#https://assets.pokemon.com/assets/cms2/img/pokedex/full/001.png
+TARTARUGA#https://assets.pokemon.com/assets/cms2/img/pokedex/full/002.png
+CABEÇA DE FLOR#https://assets.pokemon.com/assets/cms2/img/pokedex/full/003.png
+LARANJA#https://assets.pokemon.com/assets/cms2/img/pokedex/full/004.png
+CUCA#https://assets.pokemon.com/assets/cms2/img/pokedex/full/005.png
+JACARÉ DE CHIFRE#https://assets.pokemon.com/assets/cms2/img/pokedex/full/006.png
+CABEÇA AZUL#https://assets.pokemon.com/assets/cms2/img/pokedex/full/007.png
+TATU#https://assets.pokemon.com/assets/cms2/img/pokedex/full/008.png
+ALFREDO#https://assets.pokemon.com/assets/cms2/img/pokedex/full/009.png
+ESTRANHO#https://assets.pokemon.com/assets/cms2/img/pokedex/full/010.png
+TÚLIO#https://assets.pokemon.com/assets/cms2/img/pokedex/full/011.png
+ASA#https://assets.pokemon.com/assets/cms2/img/pokedex/full/012.png
+LARGA LIXA#https://assets.pokemon.com/assets/cms2/img/pokedex/full/013.png
+AMARELINHO#https://assets.pokemon.com/assets/cms2/img/pokedex/full/014.png
+MARIMBONDO#https://assets.pokemon.com/assets/cms2/img/pokedex/full/015.png
+KELVIN#https://assets.pokemon.com/assets/cms2/img/pokedex/full/016.png
+GAVIÃO#https://assets.pokemon.com/assets/cms2/img/pokedex/full/017.png
+PÁSSARO SEM BICO#https://assets.pokemon.com/assets/cms2/img/pokedex/full/018.png
+BRUNO#https://assets.pokemon.com/assets/cms2/img/pokedex/full/019.png
+RATINHO#https://assets.pokemon.com/assets/cms2/img/pokedex/full/020.png
+PIO#https://assets.pokemon.com/assets/cms2/img/pokedex/full/021.png
+PÁSSARO BICUDO#https://assets.pokemon.com/assets/cms2/img/pokedex/full/022.png
+COBRA#https://assets.pokemon.com/assets/cms2/img/pokedex/full/023.png
+JÉFITER#https://assets.pokemon.com/assets/cms2/img/pokedex/full/024.png
+BUZERÁ#https://assets.pokemon.com/assets/cms2/img/pokedex/full/025.png
+QUELHO#https://assets.pokemon.com/assets/cms2/img/pokedex/full/026.png
+GATO DO MATO#https://assets.pokemon.com/assets/cms2/img/pokedex/full/027.png
+PINGUIM#https://assets.pokemon.com/assets/cms2/img/pokedex/full/028.png
+DINO, O COELHO#https://assets.pokemon.com/assets/cms2/img/pokedex/full/029.png
+JACARÉ BOCÃO#https://assets.pokemon.com/assets/cms2/img/pokedex/full/031.png
+FELIPE#https://assets.pokemon.com/assets/cms2/img/pokedex/full/032.png
+LEBRE#https://assets.pokemon.com/assets/cms2/img/pokedex/full/033.png
+DINOSSAURO#https://assets.pokemon.com/assets/cms2/img/pokedex/full/034.png
+LOBO#https://assets.pokemon.com/assets/cms2/img/pokedex/full/035.png
+CABEÇA DE ESTRELA#https://assets.pokemon.com/assets/cms2/img/pokedex/full/036.png
+ASSIS#https://assets.pokemon.com/assets/cms2/img/pokedex/full/037.png
+MILENE DEMKO#https://assets.pokemon.com/assets/cms2/img/pokedex/full/038.png
+LÔLÔ#https://assets.pokemon.com/assets/cms2/img/pokedex/full/039.png
+DEDÉ#https://assets.pokemon.com/assets/cms2/img/pokedex/full/040.png
+MORCEGO#https://assets.pokemon.com/assets/cms2/img/pokedex/full/041.png
+BOCA ABERTA#https://assets.pokemon.com/assets/cms2/img/pokedex/full/042.png
+CABEÇA DE BRAÇOS#https://assets.pokemon.com/assets/cms2/img/pokedex/full/043.png
+BOCÃO PEIDÃO#https://assets.pokemon.com/assets/cms2/img/pokedex/full/044.png
+FLÔ#https://assets.pokemon.com/assets/cms2/img/pokedex/full/045.png
+ARANHA#https://assets.pokemon.com/assets/cms2/img/pokedex/full/046.png
+TARTA RUGA#https://assets.pokemon.com/assets/cms2/img/pokedex/full/047.png
+CABEÇA DE ANTENA#https://assets.pokemon.com/assets/cms2/img/pokedex/full/048.png
+ADRIANO#https://assets.pokemon.com/assets/cms2/img/pokedex/full/049.png
+BOLA DE PRATO#https://assets.pokemon.com/assets/cms2/img/pokedex/full/050.png
+OS REDONDOS#https://assets.pokemon.com/assets/cms2/img/pokedex/full/051.png
+ET#https://assets.pokemon.com/assets/cms2/img/pokedex/full/052.png
+GATO DO MATO#https://assets.pokemon.com/assets/cms2/img/pokedex/full/053.png
+PATO#https://assets.pokemon.com/assets/cms2/img/pokedex/full/054.png
+PICA PAU II#https://assets.pokemon.com/assets/cms2/img/pokedex/full/055.png
+MACACO SEM PESCOÇO#https://assets.pokemon.com/assets/cms2/img/pokedex/full/056.png
+ESPONJA#https://assets.pokemon.com/assets/cms2/img/pokedex/full/057.png
+DOG#https://assets.pokemon.com/assets/cms2/img/pokedex/full/058.png
+AGAMEMNOM#https://assets.pokemon.com/assets/cms2/img/pokedex/full/059.png
+BOLINHA#https://assets.pokemon.com/assets/cms2/img/pokedex/full/060.png
+SAPO#https://assets.pokemon.com/assets/cms2/img/pokedex/full/061.png
+SAPO DE MÃO#https://assets.pokemon.com/assets/cms2/img/pokedex/full/062.png
+CABEÇA DE GATO#https://assets.pokemon.com/assets/cms2/img/pokedex/full/063.png
+O MÁSCARA#https://assets.pokemon.com/assets/cms2/img/pokedex/full/064.png
+ZERO#https://assets.pokemon.com/assets/cms2/img/pokedex/full/065.png
+BONECO#https://assets.pokemon.com/assets/cms2/img/pokedex/full/066.png
+JOCA#https://assets.pokemon.com/assets/cms2/img/pokedex/full/067.png
+GERALDO#https://assets.pokemon.com/assets/cms2/img/pokedex/full/068.png
+GALHA#https://assets.pokemon.com/assets/cms2/img/pokedex/full/069.png
+PEIXE ???#https://assets.pokemon.com/assets/cms2/img/pokedex/full/070.png
+SEU CU CA#https://assets.pokemon.com/assets/cms2/img/pokedex/full/071.png
+CHAPÉU#https://assets.pokemon.com/assets/cms2/img/pokedex/full/072.png
+BARATA#https://assets.pokemon.com/assets/cms2/img/pokedex/full/073.png
+BRAÇÃO#https://assets.pokemon.com/assets/cms2/img/pokedex/full/074.png
+JOSIAS#https://assets.pokemon.com/assets/cms2/img/pokedex/full/075.png
+TARUGABOLA#https://assets.pokemon.com/assets/cms2/img/pokedex/full/076.png
+COSPE FOGO#https://assets.pokemon.com/assets/cms2/img/pokedex/full/077.png
+PÔNI#https://assets.pokemon.com/assets/cms2/img/pokedex/full/078.png
+ALDOMIRO#https://assets.pokemon.com/assets/cms2/img/pokedex/full/079.png
+JARÉ BOCÃO#https://assets.pokemon.com/assets/cms2/img/pokedex/full/080.png
+FERRU#https://assets.pokemon.com/assets/cms2/img/pokedex/full/081.png
+OS TRÊS CABEÇAS#https://assets.pokemon.com/assets/cms2/img/pokedex/full/082.png
+PICA PAU#https://assets.pokemon.com/assets/cms2/img/pokedex/full/083.png
+DUAS CABEÇAS#https://assets.pokemon.com/assets/cms2/img/pokedex/full/084.png
+TERCEIRO#https://assets.pokemon.com/assets/cms2/img/pokedex/full/085.png
+IRIAN#https://assets.pokemon.com/assets/cms2/img/pokedex/full/086.png
+PEIXE DE CAUDA#https://assets.pokemon.com/assets/cms2/img/pokedex/full/087.png
+AS TRONAUTA#https://assets.pokemon.com/assets/cms2/img/pokedex/full/088.png
+MEU#https://assets.pokemon.com/assets/cms2/img/pokedex/full/089.png
+FANTASMA DE LINGUAGEM#https://assets.pokemon.com/assets/cms2/img/pokedex/full/090.png
+CABEÇA OVAL#https://assets.pokemon.com/assets/cms2/img/pokedex/full/091.png
+ASA#https://assets.pokemon.com/assets/cms2/img/pokedex/full/092.png
+CARA DE MORCEGO#https://assets.pokemon.com/assets/cms2/img/pokedex/full/093.png
+PEDRO#https://assets.pokemon.com/assets/cms2/img/pokedex/full/094.png
+LAR GATA#https://assets.pokemon.com/assets/cms2/img/pokedex/full/095.png
+TROMBA#https://assets.pokemon.com/assets/cms2/img/pokedex/full/096.png
+BICO#https://assets.pokemon.com/assets/cms2/img/pokedex/full/097.png
+CARANGUEIJO#https://assets.pokemon.com/assets/cms2/img/pokedex/full/098.png
+CARANGUEIJO DE PATAS#https://assets.pokemon.com/assets/cms2/img/pokedex/full/099.png
+CABEÇA SEM PESCOÇO#https://assets.pokemon.com/assets/cms2/img/pokedex/full/100.png
+BOLA ROSA#https://assets.pokemon.com/assets/cms2/img/pokedex/full/101.png
+OS BUNECOS#https://assets.pokemon.com/assets/cms2/img/pokedex/full/102.png
+SEM PESCOÇO#https://assets.pokemon.com/assets/cms2/img/pokedex/full/103.png
+VALDOMIRO#https://assets.pokemon.com/assets/cms2/img/pokedex/full/104.png
+JACARÉ DE OSSO#https://assets.pokemon.com/assets/cms2/img/pokedex/full/105.png
+PERNADO#https://assets.pokemon.com/assets/cms2/img/pokedex/full/106.png
+BALBOA#https://assets.pokemon.com/assets/cms2/img/pokedex/full/107.png
+GABRIEL#https://assets.pokemon.com/assets/cms2/img/pokedex/full/108.png
+PALHAÇO BOLA#https://assets.pokemon.com/assets/cms2/img/pokedex/full/109.png
+JUNIOR#https://assets.pokemon.com/assets/cms2/img/pokedex/full/110.png
+ELEFANTE#https://assets.pokemon.com/assets/cms2/img/pokedex/full/111.png
+BIXO DE PONTAS#https://assets.pokemon.com/assets/cms2/img/pokedex/full/112.png
+CHANCE#https://assets.pokemon.com/assets/cms2/img/pokedex/full/113.png
+BOLA AZUL#https://assets.pokemon.com/assets/cms2/img/pokedex/full/114.png
+ERA#https://assets.pokemon.com/assets/cms2/img/pokedex/full/115.png
+FORMIGA#https://assets.pokemon.com/assets/cms2/img/pokedex/full/116.png
+URUBU#https://assets.pokemon.com/assets/cms2/img/pokedex/full/117.png
+LÃ#https://assets.pokemon.com/assets/cms2/img/pokedex/full/118.png
+PEIXE ESPADA#https://assets.pokemon.com/assets/cms2/img/pokedex/full/119.png
+TRELA#https://assets.pokemon.com/assets/cms2/img/pokedex/full/120.png
+JATO#https://assets.pokemon.com/assets/cms2/img/pokedex/full/121.png
+BENEDITO#https://assets.pokemon.com/assets/cms2/img/pokedex/full/122.png
+GAFANHOTO#https://assets.pokemon.com/assets/cms2/img/pokedex/full/123.png
+ESTRANHO BEIJE#https://assets.pokemon.com/assets/cms2/img/pokedex/full/124.png
+ESPANTALHO#https://assets.pokemon.com/assets/cms2/img/pokedex/full/125.png
+CALDA DE FOGO#https://assets.pokemon.com/assets/cms2/img/pokedex/full/126.png
+BATATINHA#https://assets.pokemon.com/assets/cms2/img/pokedex/full/127.png
+EXÚ DE CALDA#https://assets.pokemon.com/assets/cms2/img/pokedex/full/128.png
+ISCA#https://assets.pokemon.com/assets/cms2/img/pokedex/full/129.png
+LARGATA DE ESPINHO#https://assets.pokemon.com/assets/cms2/img/pokedex/full/130.png
+SILVA#https://assets.pokemon.com/assets/cms2/img/pokedex/full/131.png
+ILSON#https://assets.pokemon.com/assets/cms2/img/pokedex/full/132.png
+RATINHO#https://assets.pokemon.com/assets/cms2/img/pokedex/full/133.png
+PEIXE#https://assets.pokemon.com/assets/cms2/img/pokedex/full/134.png
+AMANDA#https://assets.pokemon.com/assets/cms2/img/pokedex/full/135.png
+EDITÁ POUPRES#https://assets.pokemon.com/assets/cms2/img/pokedex/full/136.png
+ROBÔ#https://assets.pokemon.com/assets/cms2/img/pokedex/full/137.png
+CÔCO#https://assets.pokemon.com/assets/cms2/img/pokedex/full/138.png
+TOUPEIRA#https://assets.pokemon.com/assets/cms2/img/pokedex/full/139.png
+CÁGADO#https://assets.pokemon.com/assets/cms2/img/pokedex/full/140.png
+MOSQUITO#https://assets.pokemon.com/assets/cms2/img/pokedex/full/141.png
+JACARÉ#https://assets.pokemon.com/assets/cms2/img/pokedex/full/142.png
+NAPA#https://assets.pokemon.com/assets/cms2/img/pokedex/full/143.png
+MORCEGO MIJÃO#https://assets.pokemon.com/assets/cms2/img/pokedex/full/144.png
+PINTO BICO FINO#https://assets.pokemon.com/assets/cms2/img/pokedex/full/145.png
+BICO FINO#https://assets.pokemon.com/assets/cms2/img/pokedex/full/146.png
+COBRA DE PESCOÇO#https://assets.pokemon.com/assets/cms2/img/pokedex/full/147.png
+ASSOMBRAÇÃO#https://assets.pokemon.com/assets/cms2/img/pokedex/full/148.png
+HUGO ALEXANDRE#https://assets.pokemon.com/assets/cms2/img/pokedex/full/149.png
+TINHU#https://assets.pokemon.com/assets/cms2/img/pokedex/full/150.png
+ESQUELETO#https://assets.pokemon.com/assets/cms2/img/pokedex/full/151.png
+MONALISA#https://assets.pokemon.com/assets/cms2/img/pokedex/full/152.png
