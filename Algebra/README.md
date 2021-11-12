@@ -1,6 +1,6 @@
 ## Calculadora de determinantes em interface de linha de comando
 
-```diff
+```bash
 
       ____       __                                          __
      / __ \___  / /____  _________ ___  () ___  ____  ____  / /_
