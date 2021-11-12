@@ -93,7 +93,6 @@ def main():
                         print("\n Author: Vinícius Souza Cândido")
                         print(" Year: 2021")
                         print(" Using Python and the Numpy module")
-                        print(" Desktop Icon: \"https://icons8.com/icon/fVhwWfA1T5cq/math-folder\"")
 
                         continue
 
