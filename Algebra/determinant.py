@@ -16,10 +16,16 @@ def get_element(array: List, index: int):
 def main():
     print(
     """
-    \t===================
-    \t*   Determinant   *
-    \t*   Calculator    *
-    \t===================
+      ____       __                                          __ 
+     / __ \___  / /____  _________ ___  () ___  ____  ____  / /_
+    / / / / _ \/ __/ _ \/ ___/ __ `__ \/ / __ \/ __ `/ __ \/ __/
+   / /_/ /  __/ /_/  __/ /  / / / / / / / / / / /_/ / / / / /_  
+  /_____/\___/\__/\___/_/  /_/ /_/ /_/_/_/ /_/\__,_/_/ /_/\__/  
+     ______      __           __      __                        
+    / ____/___  / /______  __/ /___  / /_____  _____            
+   / /   / __ `/ / ___/ / / / / __ `/ __/ __ \/ ___/            
+  / /___/ /_/ / / /__/ /_/ / / /_/ / /_/ /_/ / /                
+  \____/\__,_/_/\___/\__,_/_/\__,_/\__/\____/_/                 
     """
     )
 
@@ -87,6 +93,8 @@ def main():
                         print("\n Author: Vinícius Souza Cândido")
                         print(" Year: 2021")
                         print(" Using Python and the Numpy module")
+                        print(" Desktop Icon: \"https://icons8.com/icon/fVhwWfA1T5cq/math-folder\"")
+
                         continue
 
                     print(" Enter \"yes\" (y) or \"no\" (n)")
